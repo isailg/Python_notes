@@ -1,2 +1,2 @@
 # Python_notes
-A repository of Python3 notes for some sintaxis example.
+A repository of Python notes for some examples of sintaxis.
